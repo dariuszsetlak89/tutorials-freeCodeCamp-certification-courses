@@ -10,3 +10,5 @@ Repository contains all projects I have made, going through all of the freeCodeC
     - Link to fcc-my-cafe-menu: https://fcc-my-cafe-menu.netlify.app/
 3.  Learn CSS Colors by Building a Set of Colored Markers - 23.02.23
     - Link to fcc-my-colored-markers: https://fcc-my-colored-markers.netlify.app/
+4.  Learn HTML Forms by Building a Registration Form - 24.02.23
+    - Link to fcc-my-colored-markers: https://fcc-my-registration-form.netlify.app/
