@@ -14,3 +14,5 @@ Repository contains all projects I have made, going through all of the freeCodeC
     - Link to fcc-my-colored-markers: https://fcc-my-registration-form.netlify.app/
 5.  Certification Project: Survey Form - 28.02.23
     - Link to fcc-project-my-survey-form: https://fcc-project-my-survey-form.netlify.app/
+6.  Learn the CSS Box Model by Building a Rothko Painting - 02.03.23
+    - Link to fcc-my-rothko-painting: https://fcc-my-rothko-painting.netlify.app/
